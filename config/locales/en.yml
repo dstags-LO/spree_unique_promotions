@@ -6,3 +6,8 @@ en:
     eligibility_errors:
       messages:
         unique: This prmotion can only be applied alone
+    promotion_rule_types:
+      unique:
+        name: Unique
+        description: Customer should not have promotions applied.
+
